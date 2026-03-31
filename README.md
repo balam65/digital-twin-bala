@@ -113,11 +113,3 @@ Uses the *Inevitability Principle* and the *Digital Twin reframe* to convert fea
 → [`skills/agentic-workflow-advocacy.md`](skills/agentic-workflow-advocacy.md)
 
 ---
-
-## Roadmap
-
-This is Version 1 of the kernel. The next phases are:
-
-- **Phase 3:** Add `PHILOSOPHY.md` and `CONTEXT.md` to capture communication style, trade-off frameworks, and operating principles — the "soul" of the twin.
-- **Phase 4:** Draft `prompts/` templates that reliably invoke each skill.
-- **Phase 5:** Package for deployment into an Agentic Factory, where infrastructure like human-in-the-loop approvals, task delegation, and cross-agent coordination will be handled.
