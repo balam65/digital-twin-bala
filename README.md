@@ -10,7 +10,7 @@ This kernel encodes *how I think* — so that an AI can reason, decide, and act 
 
 ## What This Is
 
-A distillation of my most valuable, hard-won capabilities into a form that is both **human-legible** and **agent-executable**. Built following the structure of the [Agent Kernel](https://github.com/fszale/agent-kernel) framework.
+A distillation of my most valuable, hard-won capabilities into a form that is both **human-legible** and **agent-executable**.
 
 This is not a generic role description or a resume. Every skill codified here represents a specific mental model or operating procedure I use to solve real problems.
 
